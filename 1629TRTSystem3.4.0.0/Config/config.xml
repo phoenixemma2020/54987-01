@@ -3,7 +3,7 @@
 <!--database config-->
 <configs>
   <location>2</location>
-  <path>D:\1629TRTSystem3.4.0.0\Database</path>
+  <path>D:\54987-01\1629TRTSystem3.4.0.0\Database</path>
   <filename>1629TRTDatabase.mdb</filename>
   <centerid>1629</centerid>
   <centername>สองพี่น้องบางลี่คลินิกเวชกรรม</centername>
