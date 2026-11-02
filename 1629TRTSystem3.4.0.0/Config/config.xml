@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--NephroThai or Center-->
+<!--database config-->
+<configs>
+  <location>2</location>
+  <path>D:\1629TRTSystem3.4.0.0\Database</path>
+  <filename>1629TRTDatabase.mdb</filename>
+  <centerid>1629</centerid>
+  <centername>สองพี่น้องบางลี่คลินิกเวชกรรม</centername>
+</configs>
